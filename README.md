@@ -1,0 +1,2 @@
+# news-git
+use git
