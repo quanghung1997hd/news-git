@@ -1,2 +1,3 @@
 hello 
-khong co gi o day ca
+khong co gi o day ca 
+bao gio tro thanh deverloper
